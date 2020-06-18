@@ -1,0 +1,8 @@
+name: SocialNetwork
+version: 1.0.0
+main: org.Happy.social.network.SocialMain
+author: HappyIceGriefYT
+commands:
+ vk:
+ vkontakte:
+ youtube:
